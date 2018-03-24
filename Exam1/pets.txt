@@ -1,0 +1,12 @@
+Cat	Abigail	12	Persian Cat
+Dog	Droopy	10	Labrador Retriever
+Cat	Cecile	14	Ragdoll
+Dog	Roofus	11	Beagle
+Dog	Buster	12	Rottweiler
+Cat	Geronimo	18	British Shorthair
+Cat	Edith		16	Maine Coon
+Dog	Fatty		12	Pug
+Cat	Hathor		17	Abyssinian Cat
+Cat	Gilmore		15	Persian Cat
+Dog	Daphne		10	Chihuahua
+Dog	Roofus		12	Golden Retriever

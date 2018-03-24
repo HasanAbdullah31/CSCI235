@@ -1,0 +1,6 @@
+02-17-2017	Jane Doe	The Catcher in the Rye
+01-04-2017	Kevin Smith	The Da Vinci Code
+02-27-2017	Alice Hart	The Great Gatsby
+01-07-2017	Taylor Jones	Brave New World
+01-04-2017	John Doe	Nineteen Eighty-Four
+03-12-2017	Hasan Abdullah	Java for Beginners

@@ -1,0 +1,7 @@
+0 	Aldous Huxley       	Brave New World               	9780060850524
+1 	Dan Brown           	The Da Vinci Code             	9780307474278
+2 	F. Scott Fitzgerald 	The Great Gatsby              	9780743273565
+3 	George Orwell       	Animal Farm                   	9788129116123
+4 	George Orwell       	Nineteen Eighty-Four          	9780141036144
+5 	J.D. Salinger       	The Catcher in the Rye        	9780316769488
+6 	William Shakespeare 	The Taming of the Shrew       	9781613821589

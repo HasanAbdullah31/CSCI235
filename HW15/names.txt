@@ -1,0 +1,12 @@
+Winfrey, Oprah	999999
+Obama, Barack	888888
+Doe, Jane	123456
+John, Chris	789012
+John, Alexander	314159
+Sinatra, Nancy	265358
+Doe, John	979323
+Sinatra, Frank	846264
+John, Elton	338327
+Lennon, John	100940
+Trump, Melania	111111
+Trump, Donald	000000
